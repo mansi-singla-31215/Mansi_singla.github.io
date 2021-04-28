@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Portfolio</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <section id="main">
+      <nav>
+        <a href="mansi logo.png" class="logo">
+          <img src="mansi logo.png" alt="logo pic">
+        </a>
+        <span></span>
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="Skills.html">Skills</a></li>
+          <li><a href="Skills.html">Recent</a></li>
+          <li><a href="Clients.png">Clients</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+        </ul>
+        <a href="Say hi.png" class="hi"><strong>Say Hi!</strong></a>
+      </nav>
+    </section>
 
+    <div class="content">
+      <div class="image">
+        <img src="logo mansi.png" alt="My Photo">
+      </div>
+      <span></span>
+      <div class="main-text">
+        <h1>Hello, I am Mansi Singla.</h1>
+        <p>I am a fresher currenty pursuing B.Tech (CSE) from IGDTUW.</p>
+        <a  href="Mansi Singla_Resume.pdf" class="resume-btn">See My Resume </a>
+      </div>
+    </div>
+  </body>
+</html>
